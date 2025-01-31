@@ -2,4 +2,4 @@
 
 Go Reckon an app 🙂
 
-[See features](./features)
+[See features](./features.md)
