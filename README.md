@@ -1,3 +1,3 @@
-# doc
+# Documentation
 
 Go Reckon an app 🙂
